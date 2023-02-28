@@ -2,8 +2,8 @@
 # разделяя слова пробелами. Используйте операторы цикла.
 
 stroka=[]
-m=3
-for i in range(m):
+N=int(imput())
+for i in range(N):
     stroka.append(input())
 word = ' '.join(stroka)
 print(word)
