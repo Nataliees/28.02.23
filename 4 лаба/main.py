@@ -35,5 +35,5 @@ def two():
 
 def three():
     datee=input('введите дату ')
-    
+
 two()
